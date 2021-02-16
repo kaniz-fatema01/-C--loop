@@ -15,3 +15,6 @@ int main()
             printf("Odd= %d " ,a[i]);
         }
     }
+
+    return 0;
+}
